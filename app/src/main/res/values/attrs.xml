@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="ViscousCircleView">
+    <attr format="color" name="viewColor"/>
+    <attr format="dimension" name="bigCircleRadius"/>
+    <attr format="dimension" name="smallCircleRadius"/>
+    <attr format="dimension" name="maxSpacing"/>
+    <attr format="integer" name="during"/>
+    <attr format="float" name="zoom"/>
+  </declare-styleable>
+</resources>
